@@ -8,7 +8,7 @@ the Playstation 2 game, Buzz.
 
 This was written for a blog post at:
 
-
+http://www.andrewfaraday.com/2015/08/reading-usb-controllers-in-ruby-or-what.html
 
 Extracted and simplified from the controller class in: 
 
